@@ -32,7 +32,7 @@ const Certificates = () => {
     {
       title: 'Game Development using Unity & C#',
       issuer: 'CipherSchools',
-      date: '2024',
+      date: '2025',
       url: 'https://www.cipherschools.com/certificate/preview?id=687e33337efd6d5090703d35',
       pdf: cipherSchool,
       icon: <Award className="text-green" size={24} />

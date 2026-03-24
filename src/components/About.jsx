@@ -35,7 +35,7 @@ const About = () => {
               Professional Summary
             </h3>
             <p className="text-muted" style={{ lineHeight: '1.8' }}>
-             I’m a Computer Science student at Lovely Professional University, pursuing a B.Tech in CSE, with a growing focus on building interactive and meaningful digital experiences. I’m particularly drawn to game development and modern web technologies, where creativity meets problem-solving.
+             I’m a Computer Science student at <b style={{ color: 'white' }}>Lovely Professional University</b >, pursuing a B.Tech in CSE, with a growing focus on building interactive and meaningful digital experiences. I’m particularly drawn to game development and modern web technologies, where creativity meets problem-solving.
 
 I work primarily with React, Node.js, and modern CSS architectures, and I enjoy turning ideas into clean, functional, and responsive applications. Through my projects, I aim to build products that are not just visually appealing, but also accessible and genuinely useful.
 
