@@ -15,7 +15,7 @@ const Achievements = () => {
     {
       title: 'Code A Haunt Hackathon',
       description: 'Participated in the "Code A Haunt" Hackathon, competing among 2000+ participants and developing innovative solutions under timed pressure.',
-      stat: '2000+ Participants',
+      stat: '300+ Participants',
       link: '#', 
       icon: <Trophy className="text-blue-400" size={24} />,
       color: '#3b82f6',

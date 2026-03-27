@@ -2,7 +2,7 @@
 
 :root {
   /* Color Palette - Trustify_1 Green Theme */
-  --bg-dark: #0a0a0a;
+  --bg-dark: #000000;
   --bg-card: #141414;
   --bg-card-hover: #1c1c1c;
 
@@ -72,7 +72,7 @@ body {
 }
 
 .glass-nav {
-  background: rgba(10, 10, 10, 0.8);
+  background: rgba(0, 0, 0, 0.8);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--glass-border);
