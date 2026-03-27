@@ -28,7 +28,7 @@ const Footer = () => {
 
           <div className="flex justify-between items-center w-full gap-4" style={{ flexWrap: 'wrap' }}>
             <p className="text-dim text-sm">
-              &copy; {new Date().getFullYear()} John Doe. All rights reserved.
+              &copy; {new Date().getFullYear()} Avinash SH. All rights reserved.
             </p>
             
             <button 
