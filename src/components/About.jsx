@@ -41,7 +41,7 @@ I work primarily with React, Node.js, and modern CSS architectures, and I enjoy 
 
 Currently, I’m focused on crafting human-centered solutions that solve real-world problems while continuously improving my skills as a developer.
             </p>
-          
+          <p className="text-muted" style={{ lineHeight: '1.8' }}>Currentl CGPA is 7.93</p>
             
             <div className="mt-4">
               <a href={cvFile} download="Avinash_CV.pdf" className="btn btn-primary">

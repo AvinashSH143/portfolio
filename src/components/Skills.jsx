@@ -51,9 +51,11 @@ const Skills = () => {
       icon: <Wrench color="var(--success)" />,
       color: 'var(--success)',
       skills: [
-        { name: 'GitHub', percentage: 90 },
-        { name: 'Git', percentage: 75 },
+        { name: 'Git & GitHub', percentage: 75},
+        { name: 'Java', percentage: 75 },
         { name: 'Linux', percentage: 65 },
+        { name: 'Unity with C#', percentage: 65 },
+        { name: 'Blender', percentage: 70 },
    
       ]
     },

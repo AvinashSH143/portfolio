@@ -18,7 +18,7 @@ const Projects = () => {
       id: 2,
       title: 'Advanced Bug Tracker',
       description: 'A scalable solution featuring product filtering, secure checkout, and intuitive bug tracking.',
-      tags: ['Next.js', 'Tailwind', 'MongoDB'],
+      tags: ['React', 'Node.js', 'Vite', 'CSS', 'MongoDB'],
       githubUrl: 'https://github.com/anu02m/Advanced-Bug-Tracker',
       liveUrl: '#'
     },
@@ -26,16 +26,16 @@ const Projects = () => {
       id: 3,
       title: 'RealTime ScoreBoard',
       description: 'Interactive real-time scoreboard for multiplayer games with live updates and dynamic stats.',
-      tags: ['React', 'Socket.io', 'Node.js'],
+      tags: ['PHP', 'MySQL', 'HTML & CSS', 'JS'],
       githubUrl: 'https://github.com/AvinashSH143/RealTime_ScoreBoard_for_Games',
       liveUrl: '#'
     },
     {
       id: 4,
-      title: 'Interactive Portfolio',
-      description: 'A highly aesthetic portfolio employing glassmorphism UI principles and smooth animations.',
-      tags: ['React', 'Vite', 'Vanilla CSS'],
-      githubUrl: 'https://github.com/AvinashSH143/RealTime_ScoreBoard_for_Games',
+      title: 'Memory Game',
+      description: 'A simple and fun memory game built with Unity and C#.',
+      tags: ['Unity', 'C#'],
+      githubUrl: 'https://github.com/AvinashSH143/Memory_Game_Project_using_unity',
       liveUrl: '#'
     }
   ];
